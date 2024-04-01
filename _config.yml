@@ -1,0 +1,226 @@
+
+# Site settings
+
+# NB! Set your site's url, otherwise stuff will break :)
+
+url: "https://github.com/shubh24"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (https://yourusername.github.io/repository-name)
+# and NOT your user repository (https://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#
+# NB! Without this *nothing* will work, because it's used in every path :)
+
+baseurl: /
+
+# Google tracking id
+
+google-tracking-id: "UA-70072021-2"
+
+# Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
+
+force-https: True
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "Shubhankar Srivastava"
+title: "Periodical Musings"
+description: "Shubhankar's blog!"
+keywords: "shubhankar, personal, blog, travel, weekly, productivity, data science, vlog, fitness, youtube, machine learning, myntra, ai"
+favicon: "/img/favicon.ico"
+
+################
+# Header layout #
+################
+
+black-favicon: "/img/black-lab-glass.ico"
+
+background-img: "../img/lands-end.jpeg"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Everyone's got the same story -- we just got different details."
+  - text: "You never arrive."
+  - text: "Inspiration is for amateurs. Everyone else goes to work"
+  - text: "Life is like riding a bicycle. To keep your balance you must keep moving."
+  - text: "Success = f(work)"
+  - text: "Everything is figure-out-able"
+  - text: "24*7*365. Always. Forever."
+  - text: "Hard Work Vs Regret"
+  - text: "How you do anything is how you do everything."
+  - text: "What seems hard now, will one day be your warmup."
+
+me-img: "/img/shubhankar_profile_picture.jpeg"
+
+##############################
+# Color the browser elements #
+##############################
+color-browser: "#000000"
+apple-status-bar-style: "black"
+
+################
+# Web app mode #
+################
+
+web-app-mode: True
+
+# Icons for Web App mode
+
+icon-36p: "/img/web-app/icon-36.ico"
+icon-48p: "/img/web-app/icon-48.ico"
+icon-72p: "/img/web-app/icon-72.ico"
+icon-96p: "/img/web-app/icon-96.ico"
+icon-144p: "/img/web-app/icon-144.ico"
+icon-192p: "/img/web-app/icon-192.ico"
+
+########
+# Blog #
+########
+
+enable-gesture-navigation: False
+
+post-preview-words: 96
+
+paginate: 7
+
+email-share: True
+fb-share: True
+twitter-share: True
+linkedin-share: True
+reddit-share: True
+google-plus-share: True
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
+
+disqus-shortname: "shubh24"
+
+syntax-highlight: True
+
+############
+# Timeline #
+############
+
+events:
+
+  - image: "/img/timeline/houseware_logo.png"
+    date: "August 2021 - Present"
+    description: "Co-Founder, Houseware" 
+
+  - image: "/img/timeline/radicali.jpg"
+    date: "Nov 2018 - August 2021"
+    description: "Co-Founder, Radicali" 
+
+  - image: "/img/timeline/ef.png"
+    date: "July 2018 - Nov 2018"
+    description: "Founder-in-residence at Entrepreneur First" 
+
+  - image: "/img/timeline/myntra.png"
+    date: "July 2017 - July 2018"
+    description: "Data Science at Myntra" 
+
+  - image: "/img/timeline/belong.png"
+    date: "January 2017 - June 2017"
+    description: "Data Analytics Intern at Belong.co"
+
+  - image: "/img/timeline/hpe_logo.png"
+    date: "May 2016 - July 2016"
+    description: "QA Intern at Hewlett-Packard Enterprise"
+
+  - image: "/img/timeline/yrals_logo.png"
+    date: "May 2015 - July 2015"
+    description: "Data Science Intern at Yrals"
+
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "January 2014"
+    description: "Started coding"
+
+# First image of the Timeline
+
+timeline-img: "/img/timeline/default.jpg"
+
+###########
+# Contact #
+###########
+
+email: "shubhankar24@gmail.com"
+
+################
+# Author Blurb #
+################
+
+# The author blurb goes underneath blog posts.
+# This works best when your author blurb image has a transparent background, or matches your site background color.
+
+# if the author_blurb is not set, then this feature is skipped
+author_blurb: "Shubhankar is an awesome person. He's Co-Founder at Houseware, building the next generation of Analytics. In his spare time, he likes to go out on runs!"
+author_blurb_image: "/img/shubhankar_profile_picture.jpeg"
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - title: "twitter"
+    url: "https://twitter.com/__shubhankar"
+  - title: "github"
+    url: "https://github.com/shubh24"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/shubhankarsrivastava"
+       
+############
+# 404 page #
+############
+
+404_img: "/img/404.png"
+
+################################################################################
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+
+pages_list:
+  About: 'about'
+  Blog: 'latest-post'
+  Podcast: 'podcast'  
+  Runs: 'runs'
+  Timeline: 'timeline'
+
+# Exclusion list from the generated _site
+
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+# Pagination path
+
+paginate_path: "blog/page:num/"
+
+# Enable minification SASS
+
+sass:
+  style: compressed
+
+# gems:
+  # - jekyll-paginate
+  # - jemoji
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
