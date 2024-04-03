@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://github.com/shubh24"
+url: "https://github.com/MehulGoel1"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -16,7 +16,7 @@ baseurl: /
 
 # Google tracking id
 
-google-tracking-id: "UA-70072021-2"
+google-tracking-id: "G-5PYNQP495C"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Shubhankar Srivastava"
+author: "Mehul Goel"
 title: "Periodical Musings"
 description: "Shubhankar's blog!"
-keywords: "shubhankar, personal, blog, travel, weekly, productivity, data science, vlog, fitness, youtube, machine learning, myntra, ai"
+keywords: "mehul, personal, blog, musings, shower-thoughts"
 favicon: "/img/favicon.ico"
 
 ################
@@ -160,7 +160,7 @@ timeline-img: "/img/timeline/default.jpg"
 # Contact #
 ###########
 
-email: "shubhankar24@gmail.com"
+email: "mehulgoel02@gmail.com"
 
 ################
 # Author Blurb #
@@ -178,12 +178,10 @@ author_blurb_image: "/img/shubhankar_profile_picture.jpeg"
 ##################
 
 social:
-  - title: "twitter"
-    url: "https://twitter.com/__shubhankar"
   - title: "github"
-    url: "https://github.com/shubh24"
+    url: "https://github.com/MehulGoel1"
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/shubhankarsrivastava"
+    url: "https://www.linkedin.com/in/mehulgoel212"
        
 ############
 # 404 page #
@@ -198,10 +196,8 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
   Blog: 'latest-post'
-  Podcast: 'podcast'  
-  Runs: 'runs'
+  Podcast: 'podcast'
   Timeline: 'timeline'
 
 # Exclusion list from the generated _site
