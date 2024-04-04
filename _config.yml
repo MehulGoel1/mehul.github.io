@@ -30,8 +30,8 @@ force-https: True
 
 lang: "en"
 author: "Mehul Goel"
-title: "Periodical Musings"
-description: "Shubhankar's blog!"
+title: "Musings"
+description: "Mehul's blog!"
 keywords: "mehul, personal, blog, musings, shower-thoughts"
 favicon: "/img/favicon.ico"
 
@@ -43,28 +43,28 @@ black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "../img/lands-end.jpeg"
 
-##############################
-# Dynamic Text on the Header #
-##############################
+# ##############################
+# # Dynamic Text on the Header #
+# ##############################
 
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "Everyone's got the same story -- we just got different details."
-  - text: "You never arrive."
-  - text: "Inspiration is for amateurs. Everyone else goes to work"
-  - text: "Life is like riding a bicycle. To keep your balance you must keep moving."
-  - text: "Success = f(work)"
-  - text: "Everything is figure-out-able"
-  - text: "24*7*365. Always. Forever."
-  - text: "Hard Work Vs Regret"
-  - text: "How you do anything is how you do everything."
-  - text: "What seems hard now, will one day be your warmup."
+# dynamic-typing: True
+# shuffle: True # Shuffle the lines.
+# loop: True
+# loop-count: False # Set False for infinite loop, or set any number for finite loop.
+# type-speed: 10
+# start-delay: 200
+# delete-delay: 5000
+# lines: # You can add HTML Tags in the Text
+#   - text: "Everyone's got the same story -- we just got different details."
+#   - text: "You never arrive."
+#   - text: "Inspiration is for amateurs. Everyone else goes to work"
+#   - text: "Life is like riding a bicycle. To keep your balance you must keep moving."
+#   - text: "Success = f(work)"
+#   - text: "Everything is figure-out-able"
+#   - text: "24*7*365. Always. Forever."
+#   - text: "Hard Work Vs Regret"
+#   - text: "How you do anything is how you do everything."
+#   - text: "What seems hard now, will one day be your warmup."
 
 me-img: "/img/shubhankar_profile_picture.jpeg"
 
@@ -178,8 +178,8 @@ author_blurb_image: "/img/shubhankar_profile_picture.jpeg"
 ##################
 
 social:
-  - title: "github"
-    url: "https://github.com/MehulGoel1"
+  - title: "instagram"
+    url: "https://www.instagram.com/mehul_70"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/mehulgoel212"
        
