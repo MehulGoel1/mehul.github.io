@@ -3,7 +3,6 @@ layout: post
 title: "Weekly Report   1"
 description: "Trump-Detect and other things in life"
 category: Report
-tags: [weekly]
 ---
 
 Here is the weekly report of what I've been upto -- from 25th of June to the 1st of July!

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Weekly Report   1"
-description: "Trump-Detect and other things in life"
-category: Report
+section-type: post
+category: musing
 tags: [weekly]
 ---
 

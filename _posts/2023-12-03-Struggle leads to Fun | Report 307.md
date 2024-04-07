@@ -2,8 +2,7 @@
 layout: post
 section-type: post
 title: Struggle leads to Fun | Report 307
-category: report
-tags: [ 'startup', 'houseware', 'fitness' ]
+category: Report
 ---
 
 Welcome to 307!

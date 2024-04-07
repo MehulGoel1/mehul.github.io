@@ -3,7 +3,6 @@ layout: post
 section-type: post
 title: It's been a minute | Dec-Jan update | Report 308
 category: report
-tags: [ 'startup', 'houseware', 'fitness', 'travel', 'christmas', 'london', 'new years' ]
 ---
 
 Welcome to 308!
