@@ -200,7 +200,7 @@ social:
 pages_list:
   About: 'about'
   Blog: 'post-list'
-  # Musings: 'musing'
+  Musings: 'allmusings'
 
 # Exclusion list from the generated _site
 
