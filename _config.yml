@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://github.com/shubh24"
+url: "https://github.com/MehulGoel1"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -16,7 +16,7 @@ baseurl: /
 
 # Google tracking id
 
-google-tracking-id: "UA-70072021-2"
+google-tracking-id: "G-5PYNQP495C"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Shubhankar Srivastava"
-title: "Periodical Musings"
-description: "Shubhankar's blog!"
-keywords: "shubhankar, personal, blog, travel, weekly, productivity, data science, vlog, fitness, youtube, machine learning, myntra, ai"
+author: "Mehul Goel"
+title: "Musings"
+description: "Mehul's blog!"
+keywords: "mehul, personal, blog"
 favicon: "/img/favicon.ico"
 
 ################
@@ -47,24 +47,24 @@ background-img: "../img/lands-end.jpeg"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "Everyone's got the same story -- we just got different details."
-  - text: "You never arrive."
-  - text: "Inspiration is for amateurs. Everyone else goes to work"
-  - text: "Life is like riding a bicycle. To keep your balance you must keep moving."
-  - text: "Success = f(work)"
-  - text: "Everything is figure-out-able"
-  - text: "24*7*365. Always. Forever."
-  - text: "Hard Work Vs Regret"
-  - text: "How you do anything is how you do everything."
-  - text: "What seems hard now, will one day be your warmup."
+# dynamic-typing: True
+# shuffle: True # Shuffle the lines.
+# loop: True
+# loop-count: False # Set False for infinite loop, or set any number for finite loop.
+# type-speed: 10
+# start-delay: 200
+# delete-delay: 5000
+# lines: # You can add HTML Tags in the Text
+#   - text: "Everyone's got the same story -- we just got different details."
+#   - text: "You never arrive."
+#   - text: "Inspiration is for amateurs. Everyone else goes to work"
+#   - text: "Life is like riding a bicycle. To keep your balance you must keep moving."
+#   - text: "Success = f(work)"
+#   - text: "Everything is figure-out-able"
+#   - text: "24*7*365. Always. Forever."
+#   - text: "Hard Work Vs Regret"
+#   - text: "How you do anything is how you do everything."
+#   - text: "What seems hard now, will one day be your warmup."
 
 me-img: "/img/shubhankar_profile_picture.jpeg"
 
