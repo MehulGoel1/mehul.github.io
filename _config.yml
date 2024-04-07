@@ -199,7 +199,7 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Blog: 'post-list'
   # Musings: 'musing'
 
 # Exclusion list from the generated _site
