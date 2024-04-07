@@ -110,57 +110,13 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "shubh24"
-
 syntax-highlight: True
-
-############
-# Timeline #
-############
-
-events:
-
-  - image: "/img/timeline/houseware_logo.png"
-    date: "August 2021 - Present"
-    description: "Co-Founder, Houseware" 
-
-  - image: "/img/timeline/radicali.jpg"
-    date: "Nov 2018 - August 2021"
-    description: "Co-Founder, Radicali" 
-
-  - image: "/img/timeline/ef.png"
-    date: "July 2018 - Nov 2018"
-    description: "Founder-in-residence at Entrepreneur First" 
-
-  - image: "/img/timeline/myntra.png"
-    date: "July 2017 - July 2018"
-    description: "Data Science at Myntra" 
-
-  - image: "/img/timeline/belong.png"
-    date: "January 2017 - June 2017"
-    description: "Data Analytics Intern at Belong.co"
-
-  - image: "/img/timeline/hpe_logo.png"
-    date: "May 2016 - July 2016"
-    description: "QA Intern at Hewlett-Packard Enterprise"
-
-  - image: "/img/timeline/yrals_logo.png"
-    date: "May 2015 - July 2015"
-    description: "Data Science Intern at Yrals"
-
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "January 2014"
-    description: "Started coding"
-
-# First image of the Timeline
-
-timeline-img: "/img/timeline/default.jpg"
 
 ###########
 # Contact #
 ###########
 
-email: "shubhankar24@gmail.com"
+email: "mehulgoel02@gmail.com"
 
 ################
 # Author Blurb #
