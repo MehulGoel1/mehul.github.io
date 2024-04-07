@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Struggle leads to Fun | Report 307
-category: Report
+category: Musing
 ---
 
 Welcome to 307!
