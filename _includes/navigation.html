@@ -29,6 +29,8 @@
           {% for p in site.pages_list %}
             <li>
               <a class="page-scroll" href="#{{ p[1] }}"> {{p[0]}} </a>
+              {% comment %} Output the value of p[1] for debugging {% endcomment %}
+              console.log("p[1] value:", "{{ p[1] }}");
             </li>
           {% endfor %}
 
