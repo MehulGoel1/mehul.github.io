@@ -34,15 +34,9 @@
 
         {% else %}
           <!-- Blog, Post, Tag and Error pages -->
-          {% for p in site.pages_list %}
-            <li>
-            {% if p[1] == "latest-post" %}
-                <a href="{{site.baseurl}}/blog/"> {{p[0]}} </a>
-            {% else %}
-                <a href="{{site.baseurl}}/#{{ p[1] }}"> {{p[0]}} </a>
-            {% endif %}
-            </li>
-          {% endfor %}
+          <li>
+            <a href="{{site.baseurl}}/blog/">All Blogs</a>
+          </li>
         {% endif %}
       </ul>
     </div>
