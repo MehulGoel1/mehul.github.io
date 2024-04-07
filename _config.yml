@@ -170,7 +170,7 @@ email: "shubhankar24@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Shubhankar is an awesome person. He's Co-Founder at Houseware, building the next generation of Analytics. In his spare time, he likes to go out on runs!"
+author_blurb: "Mehul is an awesome person. He's Co-Founder at Houseware, building the next generation of Analytics. In his spare time, he likes to go out on runs!"
 author_blurb_image: "/img/shubhankar_profile_picture.jpeg"
 
 ##################
@@ -178,12 +178,12 @@ author_blurb_image: "/img/shubhankar_profile_picture.jpeg"
 ##################
 
 social:
-  - title: "twitter"
-    url: "https://twitter.com/__shubhankar"
+  - title: "instagram"
+    url: "https://www.instagram.com/mehul_70/"
   - title: "github"
-    url: "https://github.com/shubh24"
+    url: "https://github.com/MehulGoel1"
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/shubhankarsrivastava"
+    url: "https://www.linkedin.com/in/mehulgoel212"
        
 ############
 # 404 page #
@@ -200,9 +200,7 @@ social:
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Podcast: 'podcast'  
-  Runs: 'runs'
-  Timeline: 'timeline'
+  # Musings: 'musing'
 
 # Exclusion list from the generated _site
 
@@ -211,6 +209,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 # Pagination path
 
 paginate_path: "blog/page:num/"
+# paginate_path: "musings/page:num/"
 
 # Enable minification SASS
 
