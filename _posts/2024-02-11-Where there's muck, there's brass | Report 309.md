@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Where there's much, there's brass | Report 309
-category: report
+category: post
 ---
 
 Writing this on a standing desk from Kempegowda Terminal 1, waiting on my flight to Sodhi's wedding. Wild how just ten years ago we two used to talk about pull requests and hackathons, does life always fly by this fast?

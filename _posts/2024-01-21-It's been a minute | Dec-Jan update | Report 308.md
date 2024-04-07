@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: It's been a minute | Dec-Jan update | Report 308
-category: report
+category: post
 ---
 
 Welcome to 308!
