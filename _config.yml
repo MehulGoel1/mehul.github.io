@@ -196,8 +196,8 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  Blog: 'latest-post'
-  Podcast: 'podcast'
+  Posts: 'latest-post'
+  Musings: 'musings'
   Timeline: 'timeline'
 
 # Exclusion list from the generated _site
