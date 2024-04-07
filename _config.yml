@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://github.com/MehulGoel1"
+url: "https://github.com/shubh24"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -16,7 +16,7 @@ baseurl: /
 
 # Google tracking id
 
-google-tracking-id: "G-5PYNQP495C"
+google-tracking-id: "UA-70072021-2"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Mehul Goel"
-title: "Musings"
-description: "Mehul's blog!"
-keywords: "mehul, personal, blog, musings, shower-thoughts"
+author: "Shubhankar Srivastava"
+title: "Periodical Musings"
+description: "Shubhankar's blog!"
+keywords: "shubhankar, personal, blog, travel, weekly, productivity, data science, vlog, fitness, youtube, machine learning, myntra, ai"
 favicon: "/img/favicon.ico"
 
 ################
@@ -43,28 +43,28 @@ black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "../img/lands-end.jpeg"
 
-# ##############################
-# # Dynamic Text on the Header #
-# ##############################
+##############################
+# Dynamic Text on the Header #
+##############################
 
-# dynamic-typing: True
-# shuffle: True # Shuffle the lines.
-# loop: True
-# loop-count: False # Set False for infinite loop, or set any number for finite loop.
-# type-speed: 10
-# start-delay: 200
-# delete-delay: 5000
-# lines: # You can add HTML Tags in the Text
-#   - text: "Everyone's got the same story -- we just got different details."
-#   - text: "You never arrive."
-#   - text: "Inspiration is for amateurs. Everyone else goes to work"
-#   - text: "Life is like riding a bicycle. To keep your balance you must keep moving."
-#   - text: "Success = f(work)"
-#   - text: "Everything is figure-out-able"
-#   - text: "24*7*365. Always. Forever."
-#   - text: "Hard Work Vs Regret"
-#   - text: "How you do anything is how you do everything."
-#   - text: "What seems hard now, will one day be your warmup."
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Everyone's got the same story -- we just got different details."
+  - text: "You never arrive."
+  - text: "Inspiration is for amateurs. Everyone else goes to work"
+  - text: "Life is like riding a bicycle. To keep your balance you must keep moving."
+  - text: "Success = f(work)"
+  - text: "Everything is figure-out-able"
+  - text: "24*7*365. Always. Forever."
+  - text: "Hard Work Vs Regret"
+  - text: "How you do anything is how you do everything."
+  - text: "What seems hard now, will one day be your warmup."
 
 me-img: "/img/shubhankar_profile_picture.jpeg"
 
@@ -160,7 +160,7 @@ timeline-img: "/img/timeline/default.jpg"
 # Contact #
 ###########
 
-email: "mehulgoel02@gmail.com"
+email: "shubhankar24@gmail.com"
 
 ################
 # Author Blurb #
@@ -170,7 +170,7 @@ email: "mehulgoel02@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Shubhankar - blurb - "
+author_blurb: "Shubhankar is an awesome person. He's Co-Founder at Houseware, building the next generation of Analytics. In his spare time, he likes to go out on runs!"
 author_blurb_image: "/img/shubhankar_profile_picture.jpeg"
 
 ##################
@@ -178,10 +178,12 @@ author_blurb_image: "/img/shubhankar_profile_picture.jpeg"
 ##################
 
 social:
-  - title: "instagram"
-    url: "https://www.instagram.com/mehul_70"
+  - title: "twitter"
+    url: "https://twitter.com/__shubhankar"
+  - title: "github"
+    url: "https://github.com/shubh24"
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/mehulgoel212"
+    url: "https://www.linkedin.com/in/shubhankarsrivastava"
        
 ############
 # 404 page #
@@ -196,8 +198,10 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  Posts: 'latest-post'
-  Musings: 'musings'
+  About: 'about'
+  Blog: 'latest-post'
+  Podcast: 'podcast'  
+  Runs: 'runs'
   Timeline: 'timeline'
 
 # Exclusion list from the generated _site
