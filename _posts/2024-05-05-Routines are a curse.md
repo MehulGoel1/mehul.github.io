@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Routines are a curse is disguise. I may be wrong though"
+title: "Ever felt that routines may be a curse in disguise. Or a lighter version: stay above your routine, not within it"
 description: "bio"
 category: musing
 ---
