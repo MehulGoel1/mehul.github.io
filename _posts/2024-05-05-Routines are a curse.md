@@ -5,4 +5,4 @@ description: "bio"
 category: musing
 ---
 
-(still writing, maybe)
+(I don't have more to add to this)
