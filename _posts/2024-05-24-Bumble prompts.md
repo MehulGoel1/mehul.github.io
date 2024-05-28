@@ -2,7 +2,7 @@
 layout: post
 title: "Hinge (dating app) prompt answers"
 description: "bio"
-category: musing
+category: post
 ---
 
 1. **Favorite Fact**: we are nothing more or less than what we choose to reveal
