@@ -11,7 +11,7 @@ category: post
 
 **> Dating me is like**:  being in an apartment with two rooms. An uncomfortable one with bright white lights, & a comfortable, with dim yellow lights. One’s for growing, the other for resting. In one you will be enlightened with visions, you just have to follow, the other room, you will brighten, with your colorful emotions. In one, you will feel a challenge & you might feel like you are the darkest thing, in the other nothing will be a challenge, you can be the brightest thing, glowing with your passions, while my darkness protects you. The best part? you wouldn’t have to change the rooms yourself, whenever I see you stagnating or not being yourself I will change it for you.
 
-**> Quickest way to my heart**: to argue with me. I see girls capable of doing that as a kitten roaring. So adorable.
+**> The quickest way to my heart**: is to argue with me. I find girls adorable when they try to do that - it's like watching a kitten roar.
 
 **> The key to my heart is**: to teach me something. Is there anything more romantic than that?
 
