@@ -5,20 +5,29 @@ description: "bio"
 category: post
 ---
 
-1. **Favorite Fact**: we are nothing more or less than what we choose to reveal
+**> Favorite fact**: we are nothing more or less than what we choose to reveal.
 
-2. **What gets me out of bed every morning**: the need to do more than the need to say it
+**> What gets me out of bed every morning**: the need to do more than the need to say it.
 
-3. **Dating me is like**: being in an apt, with two rooms, an uncomfortable one with bright white lights, & a comfortable one with dimmed yellow lights, one’s for growing, the other for resting, in one you will be enlightened with visions, you just have to follow, the other room YOU will brighten it with your emotions, in one you will feel a challenge & you might feel like you are the darkest thing, in the other nothing will be a challenge, you’ll can be the brightest thing, glowing with your passions, while my darkness protects you. The best part? you wouldn’t have to change the rooms yourself, whenever you are stagnating or not being yourself I will change it for you. Not too soon though because I value suffering
+**> Dating me is like**:  being in an apartment with two rooms. An uncomfortable one with bright white lights, & a comfortable, with dim yellow lights. One’s for growing, the other for resting. In one you will be enlightened with visions, you just have to follow, the other room, you will brighten, with your colorful emotions. In one, you will feel a challenge & you might feel like you are the darkest thing, in the other nothing will be a challenge, you can be the brightest thing, glowing with your passions, while my darkness protects you. The best part? you wouldn’t have to change the rooms yourself, whenever I see you stagnating or not being yourself I will change it for you.
 
-4. **Quickest Way To My Heart**: to argue with me. I see girls capable of doing that as a  kitten roaring. So adorable
+**> Quickest way to my heart**: to argue with me. I see girls capable of doing that as a kitten roaring. So adorable.
 
-- **These below felt unlike me / even if I have an answer for these, it felt that I will never say such a thing** 
+**> The key to my heart is**: to teach me something. Is there anything more romantic than that?
+
+**> Together, we could**: balance the emotionless goal-driven behavior at work with expressive and inspired activities thereafter.
+
+**> This year, I really want to**: find someone who kick me out of bed every morning to make mo' money 'cz she wants new earrings.
+
+**> All I ask is that you**: are a curious one
+
+**> My love language**: is to put a moisturizer on you when I'd put it on myself because I think we rarely are able to overcome the inertia of our day to do it for ourselves even though we know we should. So if it is a task that will benefit us both, that is suddenly a worthy enough to pause my day for.
+
+- **These below felt unlike me or I guess I just haven't found their answer from within me** 
  - International Dream Destination
  - My Hidden Gem In The City : I will just have to surprise you with it. Don't want to mention it here
  - If I could have a superpower : A man or me does not me more power
  - I'm a great +1 because : this is definitely girly, me being is enough, there is no need of a because
- - Quickest Way To My Heart : Has there ever been a quick way to drill a hole in a hard stone/rock. Harder the the rock, harder to reach his heart.
  - I quote too much from : nothing
  - I am a real nerd about : nothing
  - Only one meal for the rest of your life : If it is has to be like that give me anything. I will accept.
