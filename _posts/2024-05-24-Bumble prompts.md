@@ -21,10 +21,10 @@ category: post
 
 **> All I ask is that you**: are a curious one
 
-**> My love language**: is to put a moisturizer on you when I'd put it on myself because I think we rarely are able to overcome the inertia of our day to do it for ourselves even though we know we should. So if it is a task that will benefit us both, that is suddenly a worthy enough to pause my day for.
+**> My love language**: is to put a moisturizer on you when I'd put it on myself because I think we rarely are able to overcome the inertia of our day to do it for ourselves even though we know we should. So if it is a task that will benefit us both it is suddenly a worthy enough thing to break my day's momentum for. Also, doing things for others gives me 5 times a boost in my momentum than something that I did just for me.
 
-- **These below felt unlike me or I guess I just haven't found their answer from within me** 
- - International Dream Destination
+**> These below felt unlike me or I guess I just haven't found their answer from within me** 
+ - International Dream Destination : I think I travel to spend time together in just about any new place and not for the destination. That's why I might never travel solo.
  - My Hidden Gem In The City : I will just have to surprise you with it. Don't want to mention it here
  - If I could have a superpower : A man or me does not me more power
  - I'm a great +1 because : this is definitely girly, me being is enough, there is no need of a because
