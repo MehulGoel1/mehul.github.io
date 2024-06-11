@@ -1,3 +1,7 @@
+<head>
+
+</head>
+
 ---
 layout: post
 title: "To Smile Or Not To Smile. If smiling, to show or not to show"

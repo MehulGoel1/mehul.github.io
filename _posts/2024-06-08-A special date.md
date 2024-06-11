@@ -22,7 +22,7 @@ I hope you have an easy-going personality and a caring heart. I try to meet peop
 I am slightly proud of my confident & principled self, that manifests itself at least in private, for penning down a description so authentic & fresh that it got me the opportunity to meet this girl. Following our meeting, she messaged that she didn't feel a connection, and that admission stung and through that pain I found myself.
 
 ---
-<span style="color: green;">How I was</span>
+<span style="color: green; font-weight: bold;">**How I was**</span>
 
 After mulling over it, I realized that my inability to connect with her had 2 root causes behind it.
 Even during the meeting I had become acutely aware that I am doing poorly on the communication front. Yes, I was stressed and there were two interconnected reasons for it that turned out to be excellent clues to begin the process of my rediscovery with. In hindsight while talking to her I shamefully saw myself doing the waiting-to-speak instead of listening-to-understand thing, knowing full well how cringe it feels to the speaker. As a result, I wasn't connecting with her. At most, I was talking about something related to what she mentioned. I failed to sense or even ask about the emotions behind her connections with the things and people in her world. I have now realized that the strongest connections of that person form that person. Almost like, if one chooses to have no connection to anyone or anything, not even to themselves, they too can exist but we will never understand their existence. Therefore, to understand one's existence we must understand their connections.
