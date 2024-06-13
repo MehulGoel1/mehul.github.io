@@ -11,13 +11,17 @@ I am writing about an encounter that not only made me realize how disconnected f
 
 ---
 
-**An excerpt from my description on shaadi.com**
+**An excerpt of my description on shaadi.com**
 
 Not bragging ahead, just trying to paint an accurate picture of myself. I take interest in somebody's likes but I also don't question it pre-maturely. I like to do things at a brisk pace but I also don't rush conversation or meals. I prefer silent ambience but I will also use music to change my mood. I do my research thoroughly but I also don't try to optimize too much when there are a lot of options. I am fun-loving but I can also sacrifice the little joys when pursuing something important. I will not care how good your pictures look, what would matter to me is how good you feel about how they look. I regard loyalty over morality (partner in crime). Consequently, I might question you to check if you are being wise when spending, but I will never question you on discarding something that is definitely a liability. Of course, there's more but I hope you get the vibe
 
 I hope you have an easy-going personality and a caring heart. I try to meet people half-way, and it would be amazing if you do too. We'll get along if you know what you're capable of and are also willing to build on it and grow from there
 
 ---
+
+___
+
+********
 
 I am slightly proud of my confident & principled self, that manifests itself at least in private, for penning down a description so authentic & fresh that it got me the opportunity to meet this girl. Following our meeting, she messaged that she didn't feel a connection, and that admission stung and through that pain I found myself.
 
