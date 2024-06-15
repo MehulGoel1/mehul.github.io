@@ -31,17 +31,20 @@ Even during the meeting I had become acutely aware that I am doing poorly on the
 
 **So what were these two reasons?**
 
-- I had not only forgotten how to connect with people but also stopped seeing any value in it (I was quite far down this slope)
 
-- Disconnected from a lot of things around me, I had lost touch with my true self resulting in not feeling comfortable with being my bold & outspoken self in front of anyone outside of family. Circumstances that also led to this were:
+-I had not only forgotten how to connect with people but also stopped seeing any value in it (I was quite far down this slope)
 
-&nbsp;&nbsp;remote only work 
 
-&nbsp;&nbsp;lived in a studio - regret taking that studio still
+-Disconnected from a lot of things around me, I had lost touch with my true self resulting in not feeling comfortable with being my bold & outspoken self in front of anyone outside of family. Circumstances that also led to this were:
 
-&nbsp;&nbsp;I should have moved to New Jersey and been around my fam like Indian ppl
 
-&nbsp;&nbsp;lived in a small old building, only 8 apt in it and 0 young ppl in them to bump into
+    - remote only work 
+
+    - lived in a studio - regret taking that studio still
+
+    - I should have moved to New Jersey and been around my fam like Indian ppl
+
+    - lived in a small old building, only 8 apt in it and 0 young ppl in them to bump into
 
 ---
 
@@ -57,14 +60,14 @@ Returning to my story, it was January (2024) and 8 months had passed since my la
 <span style="color: red; font-weight: bold; font-size: 20px">What can guide me?</span>
 
 
- - If a woman is the question, that woman is the answer - that’s nature. Self-fulfilling prophecies everywhere
+ - If a woman is the question, that woman is the answer - very much like saying that if you want to do something, take the lead and then listening to the universe as it guides you. Buddha too highlights through his third dream
 
 
 I think there is something automatic about **how nature intends us to act in the dynamic of a man meeting a woman**. I think that even if one of them is being their unapologetic self, it probably summons upon the core self of the other and any hesitation to reveal it by the other, which might be because they feel intimidated subconsciously, will result in both parties feeling a disconnect. So, because nature-wise it is ideal that a man is in his core element when meeting a woman, if he’s not, **her verbal or non-verbal responses will be summoning upon the true self of the man to come forth**. This is what I experienced, I just couldn’t recognize it in real-time. Going over the meeting repeatedly, I could discern that all the signals indicating how short I fell of her expectations were present in her spoken and unspoken responses. Surprisingly, yet naturally, they were incredibly fine tuned and devoid of any pretense. Even when her words faltered, her **facial expressions spoke volumes**, instantly revealing any disconnect in our communication. Her expressions served as a mirror reflecting the dissonance between the me who penned that description and the me before her. This is what I meant when I said that she connected with me. Even still, meeting this woman felt different this time; perhaps there was something special about her, or I had reached a level of maturity such that I could be so receptive to her words and nuances. I think it’s the former and maybe it was so because she is one connected woman. Upon delving into this more, I found two reasons for this.
 
 **So why did this happen?** 
 
-2 reasons - 
+2 reasons:
 1. a woman’s feedback is the only feedback a man trusts blindly (hard-wired) 
 2. her connection with her true self (the subconcious or intuition - that knows everything without needing to think) was really strong and that’s why her feedback could be instantaneous
 
@@ -108,14 +111,14 @@ Even in work and relationships, don’t take what the people express seriously. 
 
 I also realized the importance of a woman being the more emotional one, the softer one in a relationship 
 
-    1. A woman using her emotions will examine a man - if the man starts to react instead of responding when she expresses any emotion that tells her that he got intimidated by her emotions then he has then failed her test
+1. A woman using her emotions will examine a man - if the man starts to react instead of responding when she expresses any emotion that tells her that he got intimidated by her emotions then he has then failed her test
     
-    2. Her emotions will also give away the ways a man must improve. Whenever there’s even a slight cringe in her mind about something the man said or did, she is disapproving of that vibe - and the man’s vibe requires a little fine tuning
+2. Her emotions will also give away the ways a man must improve. Whenever there’s even a slight cringe in her mind about something the man said or did, she is disapproving of that vibe - and the man’s vibe requires a little fine tuning
 
-    3. If he passes her tests and wins her over, she’d accept him and once in a relationship her emotions will empower the man to strive to be better and do more in his life
+3. If he passes her tests and wins her over, she’d accept him and once in a relationship her emotions will empower the man to strive to be better and do more in his life
 
-    4. Men or really anybody stays focussed and efficient at their work when they act devoid of emotions, and so when a man comes home a woman’s emotions will fill this void of his - easing and relaxing the man and inviting him to share his emotions. Now is the time. Isn’t it amazing the complete flip one has to make when work ends and home starts. The emotions and expressions elevate each other above anything in the world and make each other feel like a god and a goddess as they should.
+4. Men or really anybody stays focussed and efficient at their work when they act devoid of emotions, and so when a man comes home a woman’s emotions will fill this void of his - easing and relaxing the man and inviting him to share his emotions. Now is the time. Isn’t it amazing the complete flip one has to make when work ends and home starts. The emotions and expressions elevate each other above anything in the world and make each other feel like a god and a goddess as they should.
 
-Another time when a man needs a woman is whenever the man is acting as if something/someone is controlling, attracting or intimidating him. In that state, the man is definitely not himself and he’s not going to make wise decisions as his own wisdom is inaccessible to him. At this time his woman should know enough tact to wisen him up. A man’s nature as we know is to believe a woman, especially his woman, so just by her acting a little disagreeable and outwitting him or by asking some cutting questions she can be a mirror to her man showing him how different he is behaving from his true self and knock him back to his senses. 
+The time when a woman has to act like a rock can also come. A time when a man needs a woman is whenever the man is acting as if something/someone is controlling, attracting or intimidating him. In that state, the man is definitely not himself and he’s not going to make wise decisions as his own wisdom is inaccessible to him. At this time his woman should know enough tact to wisen him up. A man’s nature as we know is to believe a woman, especially his woman, so just by her acting a little disagreeable and outwitting him or by asking some cutting questions she can be a mirror to her man showing him how different he is behaving from his true self and knock him back to his senses. 
 
 **In closing**, a sincere thank you to that girl who unlocked the man in me. Unlocked people unlock people. All I had to do was listen. I’m still listening, so... lmk.
