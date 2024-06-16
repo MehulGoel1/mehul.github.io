@@ -26,7 +26,9 @@ I am slightly proud of my confident & principled self, that manifests itself at 
 ---
 <span style="color: red; font-weight: bold; font-size: 20px">How I was?</span>
 
-After mulling over it, I realized that I really had failed to connect with her. Even during the meeting I had become acutely aware that I am doing poorly on the communication front. Yes, I was stressed and there were two interconnected reasons for it that turned out to be excellent clues to begin the process of my rediscovery with. In hindsight while talking to her I shamefully saw myself doing the waiting-to-speak instead of listening-to-understand thing, knowing full well how cringe it feels to the speaker. As a result, I wasn't connecting with her. At most, I was talking about something related to what she mentioned. I failed to sense or even ask about the emotions behind her connections with the things and people in her world. I have now realized that the strongest connections of that person form that person. Almost like, if one chooses to have no connection to anyone or anything, not even to themselves, they too can exist but we will never understand their existence. Therefore, to understand one's existence we must understand their connections.
+After mulling over it, I realized that I really had failed to connect with her. Even during the meeting I had become acutely aware that I am doing poorly on the communication front. Yes, I was stressed and there were two interconnected reasons for it that turned out to be excellent clues to begin the process of my rediscovery with. In hindsight while talking to her I shamefully saw myself doing the waiting-to-speak instead of listening-to-understand thing, knowing full well how cringe it feels to the speaker. As a result, I wasn't connecting with her. At most, I was talking about something related to what she mentioned. I failed to sense or even ask about the emotions behind her connections with the things and people in her world. 
+
+I have now realized that the strongest connections of that person form that person. Almost like, if one chooses to have no connection to anyone or anything, not even to themselves, they too can exist but we will never understand their existence. Therefore, to understand one's existence we must understand their connections.
 
 **So why did I fail in connecting with her?**
 
@@ -35,15 +37,10 @@ After mulling over it, I realized that I really had failed to connect with her. 
 
 
 -Disconnected from a lot of things around me, I had lost touch with my true self resulting in not feeling comfortable with being my bold & outspoken self in front of anyone outside of family. Circumstances that also led to this were:
-
-
-    - remote only work 
-
-    - lived in a studio - regret taking that studio still
-
-    - I should have moved to New Jersey and been around my fam like Indian ppl
-
-    - lived in a small old building, only 8 apt in it and 0 young ppl in them to bump into
+- remote only work <br><br>
+- lived in a studio - regret taking that studio still<br><br>
+- I should have moved to New Jersey and been around my fam like Indian ppl <br><br>
+- lived in a small old building, only 8 apt in it and 0 young ppl in them to bump into
 
 ---
 
@@ -59,7 +56,7 @@ Returning to my story, it was January (2024) and 8 months had passed since my la
 <span style="color: red; font-weight: bold; font-size: 20px">What can guide me?</span>
 
 
- - If a woman is the question, that woman is the answer - very much like saying that if you want to do something, take the lead and then listening to the universe as it guides you. Buddha too highlights through his third dream
+ - If a woman is the question, that woman is the answer - very much like saying that if you want to do something, take the lead (equivalent to 'fake it' in 'fake it till you make it') and then listening to the universe as it guides you. Buddha too highlights through his third dream
 
 
 I think there is something automatic about **how nature intends us to act in the dynamic of a man meeting a woman**. I think that even if one of them is being their unapologetic self, it probably summons upon the core self of the other and any hesitation to reveal it by the other, which might be because they feel intimidated subconsciously, will result in both parties feeling a disconnect. So, because nature-wise it is ideal that a man is in his core element when meeting a woman, if he’s not, **her verbal or non-verbal responses will be summoning upon the true self of the man to come forth**. This is what I experienced, I just couldn’t recognize it in real-time. Going over the meeting repeatedly, I could discern that all the signals indicating how short I fell of her expectations were present in her spoken and unspoken responses. Surprisingly, yet naturally, they were incredibly fine tuned and devoid of any pretense. Even when her words faltered, her **facial expressions spoke volumes**, instantly revealing any disconnect in our communication. Her expressions served as a mirror reflecting the dissonance between the me who penned that description and the me before her. This is what I meant when I said that she connected with me. Even still, meeting this woman felt different this time; perhaps there was something special about her, or I had reached a level of maturity such that I could be so receptive to her words and nuances. I think it’s the former and maybe it was so because she is one connected woman. Upon delving into this more, I found two reasons for this.
@@ -67,11 +64,13 @@ I think there is something automatic about **how nature intends us to act in the
 **So why did this happen?** 
 
 2 reasons:
-1. a woman’s feedback is the only feedback a man trusts blindly (hard-wired) 
+1. a woman’s feedback is the only feedback a man can and does trust blindly (hard-wired) <br><br>
 2. her connection with her true self (the subconcious or intuition - that knows everything without needing to think) was really strong and that’s why her feedback could be instantaneous
 
 Before delving into those reasons, it's important to briefly touch upon another thing at play. We all know that **only real things/feedback should be trusted** and hence we must know how to differentiate what's really real (nature) and what's fake. Additionally, we know that intentionally or unintentionally, control is being exercised on everyone, and as soon as one loses theirs, they will be under someone else’s. A generic way to describe a tactic how someone might try to influence another is by faking something and a wise person should be able to recognize that and save themselves. Diljit Dosanjh highlighted the same in an interview with Anupama Chopra, when she asks him that when a man achieves so much stardom and everything around him changes, how does ‘the man’ stay the same. He said “sab drama hai ji” (translation: everything is fake OR people don’t act real with you when you have a lot). 
-**So, what should we trust?** I think among all the feedback or response in the world, somehow, a **woman’s response to a man is special** in that **it is real**. At least that’s what I have sensed. The richer i.e. the more open & expressive the feedback, the better. This is all the feedback a man needs to become better. There’s a catch though, she should be so connected with her unapologetic self that no matter who or how I am, it shouldn’t intimidate her because only then can she stay real effortlessly. If it is so, her body language, facial expressions and vocal tone will signal a fitting response to any action the man is leading with indicating whether she likes where she is being led or not. That girl was really all that and that is probably why her feedback signals were so instantaneous. Something can be said about the saying that behind every successful man is a woman. However, I would like to decode, redefine and refine it a little and say that between a follower and a leader whoever can exhibit a stronger character in certain circumstances, will be able to evoke a stronger character in the other. A good leader can make someone a good follow (evoke trust towards the leader in the follow) and a good follow can make someone a good leader (evoke trust in their own leadership and remind them of their sense of responsibility towards their follow)
+**So, what should we trust?** I think among all the feedback or response in the world, somehow, a **woman’s response to a man is special** in that **it is real**. At least that’s what I have sensed. The richer i.e. the more open & expressive the feedback, the better. This is all the feedback a man needs to become better. There’s a catch though, she should be so connected with her unapologetic self that no matter who or how I am, it shouldn’t intimidate her because only then can she stay real effortlessly. If it is so, her body language, facial expressions and vocal tone will signal a fitting response to any action the man is leading with indicating whether she likes where she is being led or not. That girl was really all that and that is probably why her feedback signals were so instantaneous. Something can be said about the saying that behind every successful man is a woman. Extending what the existence of that natural dynamic means, I think that for any given man, all the women in the world are into him and all that are not are actually in his team giving him feedback on how he can be better and/or guiding him to his woman
+
+To refine upon "behind every successful man is a woman" I think that between a follower and a leader whoever can exhibit a stronger character in a certain circumstance at any given time, will be able to evoke a stronger character in the other. A good leader can make someone a good follow (evoke trust towards the leader in the follow) and a good follow can make someone a good leader (evoke trust in their own leadership and remind them of their sense of responsibility towards their follow)
 
 Let’s tie in the **concept of people-pleasing** to this to see if things still add up; if a man or a woman is acting to please someone, then their response can not be good enough to draw feedback from. Probably that's why acts that appease us make us cringe and uncomfortable. This is also congruent with **why a good leader holds back on their compliments** before the work is fully done because an untimely or overly generous compliment will disconnect the subordinate from their work, affecting the team negatively. Marriage is so much like that team. I think a guy must get to know the girl over the first few meets almost expressionlessly and by that all I mean is that he and actually she too, should just be curious about the other without judgment. Because emotion implies judgment, that's why I used the word ‘expressionlessly’. I don’t mean it literally. Also, emotions cloud judgement. More on this and why keeping a therapist-like vibe (i.e. no emotions of one's own) might set the most safe space like tone which would be nice for the first 2 dates, maybe. I learned what I learned, I will try to apply it. May be this is it, maybe this needs refinement. Maybe it is already in my subconscious but I just haven't felt it tangibly.
 
@@ -80,8 +79,7 @@ Side note: Looking back I think men's response too has the signal (with feedback
 
 <span style="color: red; font-weight: bold; font-size: 20px">Moving forward, how I think I should operate as a man and the value I see in it</span>
 
-I see the value of the man being a rock in a relationship
-
+I see the value of the man being a rock in a relationship <br><br>
 I see the value of the woman being the softer one in a relationship 
 
 **Part One**
@@ -108,7 +106,7 @@ Even in work and relationships, don’t take what the people express seriously. 
 
 **Part Two**
 
-I also realized the importance of a woman being the more emotional one, the softer one in a relationship <br><br>
+I also realized the importance of a woman being the more emotional one, the softer one in a relationship 
 1. A woman using her emotions will examine a man - if the man starts to react instead of responding when she expresses any emotion that tells her that he got intimidated by her emotions then he has then failed her test<br><br>
 2. Her emotions will also give away the ways a man must improve. Whenever there’s even a slight cringe in her mind about something the man said or did, she is disapproving of that vibe - and the man’s vibe requires a little fine tuning<br><br>
 3. If he passes her tests and wins her over, she’d accept him and once in a relationship her emotions will empower the man to strive to be better and do more in his life<br><br>
