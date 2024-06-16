@@ -61,7 +61,7 @@ Returning to my story, it was January (2024) and 8 months had passed since my la
 
 I think there is something automatic about **how nature intends us to act in the dynamic of a man meeting a woman**. I think that even if one of them is being their unapologetic self, it probably summons upon the core self of the other and any hesitation to reveal it by the other, which might be because they feel intimidated subconsciously, will result in both parties feeling a disconnect. So, because nature-wise it is ideal that a man is in his core element when meeting a woman, if he’s not, **her verbal or non-verbal responses will be summoning upon the true self of the man to come forth**. This is what I experienced, I just couldn’t recognize it in real-time. Going over the meeting repeatedly, I could discern that all the signals indicating how short I fell of her expectations were present in her spoken and unspoken responses. Surprisingly, yet naturally, they were incredibly fine tuned and devoid of any pretense. Even when her words faltered, her **facial expressions spoke volumes**, instantly revealing any disconnect in our communication. Her expressions served as a mirror reflecting the dissonance between the me who penned that description and the me before her. This is what I meant when I said that she connected with me. Even still, meeting this woman felt different this time; perhaps there was something special about her, or I had reached a level of maturity such that I could be so receptive to her words and nuances. I think it’s the former and maybe it was so because she is one connected woman. Upon delving into this more, I found two reasons for this.
 
-**So why did this happen?** 
+**So how does this happen?** 
 
 2 reasons:
 1. a woman’s feedback is the only feedback a man can and does trust blindly (hard-wired) <br><br>
@@ -88,7 +88,7 @@ I see the value of the woman being the softer one in a relationship
 
 
 **So, I started with the two clues below to find out the value they bring along with a thrill/spark** :
-1. why does the push/pull feel exciting? there must be something valuable about this seemingly dark play. 
+1. why does the push/pull feel exciting? there must be something valuable about this seemingly dark play <br><br>
 2. there’s definitely something about winning someone over, AKA owning them/dominating them
 
 **About push & pull**: I think we all might have experienced that the longer one stays in the comfort of their home the more they regress towards naivety. So if one doesn’t have consistent practice of facing a little darkness, they will lose their sharpness. They will then either not realize it when others are playing them or won’t have the tact to counter it and will lose their cool. So the value in getting played by your partner is in the practice one gets in keeping their composure when being poked. Only a partner can do this in a sly yet not-really-hurting way because you trust them without reservation. This is an exclusive luxury as they own you and you own them. 
