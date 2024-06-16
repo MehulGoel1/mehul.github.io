@@ -26,10 +26,9 @@ I am slightly proud of my confident & principled self, that manifests itself at 
 ---
 <span style="color: red; font-weight: bold; font-size: 20px">How I was?</span>
 
-After mulling over it, I realized that my inability to connect with her had 2 root causes behind it.
-Even during the meeting I had become acutely aware that I am doing poorly on the communication front. Yes, I was stressed and there were two interconnected reasons for it that turned out to be excellent clues to begin the process of my rediscovery with. In hindsight while talking to her I shamefully saw myself doing the waiting-to-speak instead of listening-to-understand thing, knowing full well how cringe it feels to the speaker. As a result, I wasn't connecting with her. At most, I was talking about something related to what she mentioned. I failed to sense or even ask about the emotions behind her connections with the things and people in her world. I have now realized that the strongest connections of that person form that person. Almost like, if one chooses to have no connection to anyone or anything, not even to themselves, they too can exist but we will never understand their existence. Therefore, to understand one's existence we must understand their connections.
+After mulling over it, I realized that I really had failed to connect with her. Even during the meeting I had become acutely aware that I am doing poorly on the communication front. Yes, I was stressed and there were two interconnected reasons for it that turned out to be excellent clues to begin the process of my rediscovery with. In hindsight while talking to her I shamefully saw myself doing the waiting-to-speak instead of listening-to-understand thing, knowing full well how cringe it feels to the speaker. As a result, I wasn't connecting with her. At most, I was talking about something related to what she mentioned. I failed to sense or even ask about the emotions behind her connections with the things and people in her world. I have now realized that the strongest connections of that person form that person. Almost like, if one chooses to have no connection to anyone or anything, not even to themselves, they too can exist but we will never understand their existence. Therefore, to understand one's existence we must understand their connections.
 
-**So what were these two reasons?**
+**So why did I fail in connecting with her?**
 
 
 -I had not only forgotten how to connect with people but also stopped seeing any value in it (I was quite far down this slope)
@@ -110,13 +109,9 @@ Even in work and relationships, don’t take what the people express seriously. 
 **Part Two**
 
 I also realized the importance of a woman being the more emotional one, the softer one in a relationship 
-
 1. A woman using her emotions will examine a man - if the man starts to react instead of responding when she expresses any emotion that tells her that he got intimidated by her emotions then he has then failed her test
-    
 2. Her emotions will also give away the ways a man must improve. Whenever there’s even a slight cringe in her mind about something the man said or did, she is disapproving of that vibe - and the man’s vibe requires a little fine tuning
-
 3. If he passes her tests and wins her over, she’d accept him and once in a relationship her emotions will empower the man to strive to be better and do more in his life
-
 4. Men or really anybody stays focussed and efficient at their work when they act devoid of emotions, and so when a man comes home a woman’s emotions will fill this void of his - easing and relaxing the man and inviting him to share his emotions. Now is the time. Isn’t it amazing the complete flip one has to make when work ends and home starts. The emotions and expressions elevate each other above anything in the world and make each other feel like a god and a goddess as they should.
 
 The time when a woman has to act like a rock can also come. A time when a man needs a woman is whenever the man is acting as if something/someone is controlling, attracting or intimidating him. In that state, the man is definitely not himself and he’s not going to make wise decisions as his own wisdom is inaccessible to him. At this time his woman should know enough tact to wisen him up. A man’s nature as we know is to believe a woman, especially his woman, so just by her acting a little disagreeable and outwitting him or by asking some cutting questions she can be a mirror to her man showing him how different he is behaving from his true self and knock him back to his senses. 
