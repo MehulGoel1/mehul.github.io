@@ -108,13 +108,10 @@ Even in work and relationships, don’t take what the people express seriously. 
 
 **Part Two**
 
-I also realized the importance of a woman being the more emotional one, the softer one in a relationship 
-1. A woman using her emotions will examine a man - if the man starts to react instead of responding when she expresses any emotion that tells her that he got intimidated by her emotions then he has then failed her test
-
-2. Her emotions will also give away the ways a man must improve. Whenever there’s even a slight cringe in her mind about something the man said or did, she is disapproving of that vibe - and the man’s vibe requires a little fine tuning
-
-3. If he passes her tests and wins her over, she’d accept him and once in a relationship her emotions will empower the man to strive to be better and do more in his life
-
+I also realized the importance of a woman being the more emotional one, the softer one in a relationship <br><br>
+1. A woman using her emotions will examine a man - if the man starts to react instead of responding when she expresses any emotion that tells her that he got intimidated by her emotions then he has then failed her test<br><br>
+2. Her emotions will also give away the ways a man must improve. Whenever there’s even a slight cringe in her mind about something the man said or did, she is disapproving of that vibe - and the man’s vibe requires a little fine tuning<br><br>
+3. If he passes her tests and wins her over, she’d accept him and once in a relationship her emotions will empower the man to strive to be better and do more in his life<br><br>
 4. Men or really anybody stays focussed and efficient at their work when they act devoid of emotions, and so when a man comes home a woman’s emotions will fill this void of his - easing and relaxing the man and inviting him to share his emotions. Now is the time. Isn’t it amazing the complete flip one has to make when work ends and home starts. The emotions and expressions elevate each other above anything in the world and make each other feel like a god and a goddess as they should.
 
 The time when a woman has to act like a rock can also come. A time when a man needs a woman is whenever the man is acting as if something/someone is controlling, attracting or intimidating him. In that state, the man is definitely not himself and he’s not going to make wise decisions as his own wisdom is inaccessible to him. At this time his woman should know enough tact to wisen him up. A man’s nature as we know is to believe a woman, especially his woman, so just by her acting a little disagreeable and outwitting him or by asking some cutting questions she can be a mirror to her man showing him how different he is behaving from his true self and knock him back to his senses. 
