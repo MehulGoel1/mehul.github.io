@@ -114,4 +114,4 @@ I also realized the importance of a woman being the more emotional one, the soft
 
 The time when a woman has to act like a rock can also come. A time when a man needs a woman is whenever the man is acting as if something/someone is controlling, attracting or intimidating him. In that state, the man is definitely not himself and he’s not going to make wise decisions as his own wisdom is inaccessible to him. At this time his woman should know enough tact to wisen him up. A man’s nature as we know is to believe a woman, especially his woman, so just by her acting a little disagreeable and outwitting him or by asking some cutting questions she can be a mirror to her man showing him how different he is behaving from his true self and knock him back to his senses. 
 
-**In closing**, a sincere thank you to that girl who unlocked the man in me. Unlocked people unlock people. All I had to do was listen. I’m still listening, so... lmk.
+**In closing**, a sincere thank you to that girl who unlocked the man in me. Unlocked people unlock people. All I had to do was listen.
